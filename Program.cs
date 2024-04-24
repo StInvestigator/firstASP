@@ -17,7 +17,7 @@ app.MapGet("/", async context =>
     "<h3>На сьогодняшній день навчаюсь в 11-ому класі</h3>" +
     "<h3>У вільний час граю у шахи, відеоігри, відвідую спортивний зал</h3>" +
     "<a href=\"skills\" style=\"display:block\">To skills</a>" +
-    "<img src=\"/Gigachad.jpg\" style=\"width:200px\"/>" +
+    "<img src=\"img/Gigachad.jpg\" style=\"width:200px\"/>" +
     "</body></html>");
 });
 
